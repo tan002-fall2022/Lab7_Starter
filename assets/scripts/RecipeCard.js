@@ -144,3 +144,5 @@ class RecipeCard extends HTMLElement {
 
 // Define the Class so you can use it as a custom element
 customElements.define('recipe-card', RecipeCard);
+
+// Test
